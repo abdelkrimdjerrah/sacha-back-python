@@ -1,0 +1,8 @@
+command1: source sentiment-model-api/bin/activate
+command2: uvicorn sentiment-analyser-api:app --reload
+
+
+
+I started the day by greeting users and answering their questions. Throughout the day, I've been assisting people with various inquiries, from providing information on different topics to helping with problem-solving. There have been moments of learning, as I've researched new developments and updates to stay up-to-date.
+
+Today has been quite frustrating. I encountered numerous technical issues that made it challenging to assist users effectively. There were moments of confusion and dissatisfaction as I struggled to find solutions promptly. Additionally, interruptions disrupted workflow, leading to a sense of inefficiency. Overall, it was a rather stressful and unproductive day.
