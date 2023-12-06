@@ -3,6 +3,5 @@ nltk==3.8.1
 pydantic==1.10.8
 uvicorn==0.18.3
 sklearn==0.0
-pickle==4.0.0
-
+pickle
 
